@@ -4,7 +4,7 @@
 
 [![Actions Status](https://github.com/porsche-design-system/porsche-design-system/workflows/Porsche%20Design%20System/badge.svg)](https://github.com/porsche-design-system/porsche-design-system/actions)
 
-## Setup
+## Setup 
 
 ### Install Volta
 
