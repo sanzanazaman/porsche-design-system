@@ -1,7 +1,7 @@
 # Dependencies
 
 We are using Dependabot to manage our dependencies. Every note about not updatable dependencies in this document is also
-reflected in the configuration file under `.github/dependabot.yml` and must be kept in sync!
+reflected in the configuration file under `.github/dependabot.yml` and must be kept in sync! 
 
 ## Overview of Framework Versions
 
